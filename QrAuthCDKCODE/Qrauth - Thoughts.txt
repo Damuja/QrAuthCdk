@@ -1,0 +1,2 @@
+QRAUTH - potentially sert up a redis cache instance to make data 
+query much faster from the phone app
