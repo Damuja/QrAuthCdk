@@ -1,0 +1,18 @@
+{
+  "name": "genqrnodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "qrcode": "^1.5.1",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
+  }
+}
